@@ -1,0 +1,20 @@
+C:\SamouchenieCSharpDek2021\tok\tok\bin\Debug\tok.exe.config
+C:\SamouchenieCSharpDek2021\tok\tok\bin\Debug\tok.exe
+C:\SamouchenieCSharpDek2021\tok\tok\bin\Debug\tok.pdb
+C:\SamouchenieCSharpDek2021\tok\tok\obj\Debug\tok.csproj.AssemblyReference.cache
+C:\SamouchenieCSharpDek2021\tok\tok\obj\Debug\tok.Form1.resources
+C:\SamouchenieCSharpDek2021\tok\tok\obj\Debug\tok.Properties.Resources.resources
+C:\SamouchenieCSharpDek2021\tok\tok\obj\Debug\tok.csproj.GenerateResource.cache
+C:\SamouchenieCSharpDek2021\tok\tok\obj\Debug\tok.csproj.CoreCompileInputs.cache
+C:\SamouchenieCSharpDek2021\tok\tok\obj\Debug\tok.exe
+C:\SamouchenieCSharpDek2021\tok\tok\obj\Debug\tok.pdb
+D:\JS SoftUni23\tok\tok\bin\Debug\tok.exe.config
+D:\JS SoftUni23\tok\tok\bin\Debug\tok.exe
+D:\JS SoftUni23\tok\tok\bin\Debug\tok.pdb
+D:\JS SoftUni23\tok\tok\obj\Debug\tok.csproj.AssemblyReference.cache
+D:\JS SoftUni23\tok\tok\obj\Debug\tok.Form1.resources
+D:\JS SoftUni23\tok\tok\obj\Debug\tok.Properties.Resources.resources
+D:\JS SoftUni23\tok\tok\obj\Debug\tok.csproj.GenerateResource.cache
+D:\JS SoftUni23\tok\tok\obj\Debug\tok.csproj.CoreCompileInputs.cache
+D:\JS SoftUni23\tok\tok\obj\Debug\tok.exe
+D:\JS SoftUni23\tok\tok\obj\Debug\tok.pdb
